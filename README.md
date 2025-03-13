@@ -1,6 +1,6 @@
-# 💫 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=Hithishe R&color=yellow)
+💫 About Me:
 🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning DSA<br>
-//🌐 [Portfolio]()
+#🌐 [Portfolio]()
 
 
 ## 🌐 Socials:
