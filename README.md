@@ -20,7 +20,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hithishe&show_icons=true&count_private=true&theme=dark)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Hithishe&color=yellow)
 <!--
 📊 GitHub Stats
 
