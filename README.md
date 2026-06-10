@@ -2,7 +2,6 @@
 
 🎓 I’m a CSE student passionate about Full Stack Web Development.<br>
 💡 I enjoy building user-friendly websites and learning new tech.<br>
-🎯 Currently preparing for placements and enhancing my DSA skills.
 
 
 ## 🌐 Socials:
